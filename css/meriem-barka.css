@@ -1,0 +1,47 @@
+/* /*===============Style par défaut=================================*/
+
+* {
+	box-sizing : border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+	font-family : arial;
+}
+
+h1{
+	font-size: 50px;
+	text-decoration-style: solid;
+	font-family : fantasy;
+	text-align: center;
+}
+
+h2,h3 {
+		font-family : fantasy;
+		color: orange;
+		font-size: 30px;
+}
+
+h2:hover,h3:hover{
+	color: purple;
+	text-align: left;
+}
+
+img {
+	float: right;
+	border-radius: 30%;
+}
+
+
+.monpara{
+	margin-top: 100px;
+}
+
+p {
+	font-size: 25px;
+	font-style: oblique;
+	color: Pink;
+	font-family: serif;
+}
